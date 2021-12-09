@@ -6,6 +6,7 @@ using UnityEngine;
 
 namespace DefaultNamespace
 {
+    [SelectionBase]
     public class EnemyShip : MonoBehaviour
     {
         // This will eventually be replaced with a GameManager to get the player reference to decouple

@@ -4,6 +4,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
 
+[SelectionBase]
 public class BasicController : MonoBehaviour
 {
     // Controller just to demonstrate AI
